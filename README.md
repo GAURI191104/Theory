@@ -26,3 +26,35 @@ you to define reusable code snippets that can be called within manifests and cla
 enhancing code efficiency and maintainability. By mastering these core components, you'll 
 
 be well-equipped to effectively manage and provision infrastructure using Puppet.
+
+
+
+Exp 8
+
+Docker is an open-source platform that enables developers to automate the deployment, 
+
+scaling, and management of applications within lightweight, portable containers. Containers 
+
+encapsulate an application and its dependencies, ensuring that it runs consistently across 
+
+different computing environments, from development to production. By using Docker, 
+
+developers can avoid the "it works on my machine" problem, as containers provide a 
+
+standardized unit that includes everything needed for an application to run.
+
+One of the key benefits of Docker is its ability to isolate applications and their environments, 
+
+allowing for better resource utilization and easier management of complex applications 
+
+composed of multiple services. Docker images, which serve as the blueprint for containers, 
+
+can be easily shared and versioned through Docker Hub or private registries, promoting 
+
+collaboration and standardization across teams. Additionally, Docker integrates seamlessly 
+
+with various orchestration tools like Kubernetes, making it easier to manage containerized 
+
+applications at scale. Overall, Docker enhances the efficiency of development workflows and 
+
+simplifies application deployment and maintenance in diverse environments.
